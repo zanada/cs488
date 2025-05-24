@@ -1,4 +1,4 @@
-![screenshotTask5](https://github.com/user-attachments/assets/1e3c5589-742e-4a1c-bae6-08770a615f2c)# cs488 Project: Softbody Tetris
+# cs488 Project: Softbody Tetris
 
 This project implements a simulation of jelly-like tetris pieces falling in a thin invisible container
 
