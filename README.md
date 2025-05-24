@@ -4,6 +4,8 @@ This project implements a simulation of jelly-like tetris pieces falling in a th
 
 This was done as my final project for the UWaterloo CS488 (graphics) course. It is rendered in a raytracer that I built over the course of the term.
 
+See the [Wiki](https://github.com/zanada/cs488/wiki/Implementation-Notes) for implementation notes
+
 **Note:** This is not the full program project as that contains course intellectual property. This contains just my code and thus cannot be run on its own
 
 # Gallery
